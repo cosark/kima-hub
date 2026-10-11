@@ -33,6 +33,7 @@ Thanks for your patience while I work through this.
     -   [Playlist Import](#playlist-import)
 -   [Mobile Support](#mobile-support)
 -   [Quick Start](#quick-start)
+-   [One-Click Deploy](#one-click-deploy)
 -   [Configuration](#configuration)
 -   [CLAP Audio Analysis](#clap-audio-analysis)
 -   [GPU Acceleration](#gpu-acceleration)
@@ -344,6 +345,12 @@ If startup logs report a permission error, `chown` the host path to the UID/GID 
 ---
 
 Kima will begin scanning your music library automatically. Depending on the size of your collection, this may take a few minutes to several hours.
+
+---
+
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Kima/)
 
 ---
 
